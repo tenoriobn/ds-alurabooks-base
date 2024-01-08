@@ -35,8 +35,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "biblioteca-alurabooks",
-  "author": "bruno tenório",
+  "name": "biblioteca-alurabooks-base",
+  "author": "bruno tenorio",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
