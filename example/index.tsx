@@ -6,9 +6,7 @@ import { AbBotao } from '../.';
 const App = () => {
   return (
     <div>
-      
       <AbBotao />
-
     </div>
   );
 };
