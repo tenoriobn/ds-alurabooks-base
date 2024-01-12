@@ -1,3 +1,16 @@
+# v0.2.3 (Fri Jan 12 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/tenoriobn/ds-alurabooks-base ([@tenoriobn](https://github.com/tenoriobn))
+- Resolvendo desafio de criar componente AbInputQuantidade ([@tenoriobn](https://github.com/tenoriobn))
+
+#### Authors: 1
+
+- Bruno Tenório ([@tenoriobn](https://github.com/tenoriobn))
+
+---
+
 # v0.2.2 (Fri Jan 12 2024)
 
 #### ⚠️ Pushed to `main`
